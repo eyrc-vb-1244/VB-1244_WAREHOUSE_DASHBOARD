@@ -61,7 +61,7 @@ function refreshMap(){
     shadowSize: [41, 41]
   });
   var goldIcon = new L.Icon({
-    iconUrl: 'marker-icon-2x-gold.png',
+    iconUrl: 'marker-icon-2x-yellow.png',
 	shadowUrl: 'marker-shadow.png',
     iconSize: [25, 41],
     iconAnchor: [12, 41],
